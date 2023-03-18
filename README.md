@@ -18,6 +18,6 @@ All packages can be installed via pip (https://pypi.org/project/pip/). Generally
 
 **e.g.** pip install sklearn
 
-## Predicting distant metastases from breast cancer
+## Predicting distant metastases of breast cancer
 
 - The '. /code' folder provides the code to build a predictive model for distant metastases from breast cancer.
